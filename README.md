@@ -1,4 +1,4 @@
-# breadth-basis
+# tb-basis
 
 Implementation of the heuristic for computing a small homology basis using the thickness-breadth balls.
 
